@@ -1,3 +1,4 @@
+//This program is the solution to a hackerrank challenge described in the following link:  https://www.hackerrank.com/challenges/java-if-else/problem
 import java.util.Scanner;
 
 public class Solution {
